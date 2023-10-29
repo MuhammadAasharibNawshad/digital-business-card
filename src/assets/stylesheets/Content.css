@@ -1,0 +1,40 @@
+.content-div {
+    background-color: #1A1B21;
+    padding: 0px 20px;
+}
+
+.connectivity-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.profile-detail-text {
+    text-align: left;
+    font-size: 11px;
+}
+
+.section-heading {
+    text-align: left;
+    font-size: 16px;
+}
+
+#prof-name-text {
+    font-size: 25px;
+    font-weight: bold;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+#prof-designation-text {
+    color: #F3BF99;
+    font-size: 12.8px;
+}
+
+#prof-email-text {
+    font-size: 10.24px;
+}
+
+
+.white-font {
+    color: #DCDCDC;
+}

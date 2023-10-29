@@ -1,0 +1,13 @@
+.social-icon-container-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px 0px;
+    background-color: #161619;
+}
+
+.footer-social-icon {
+    width: 25px;
+    height: 25px;
+    padding: 0px 10px;
+}
