@@ -1,4 +1,21 @@
 .button-container {
     display: flex;
     flex-direction: row;
+    margin: 0px 10px;
+    border-radius: 5px;
+    width: 115px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.button-img {
+    height: 18px;
+    width: 18px;
+    padding: 10px 5px;
+}
+
+.button-text {
+    font-size: 14px;
+    margin: 0px;
+    padding: 10px 5px;
 }
